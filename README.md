@@ -1,6 +1,6 @@
 ## Hi, I'm Shreya 👋
 
-**B.S. Statistics @ University of Illinois Urbana-Champaign.** I use **R and Python**
+**B.S. Statistics, University of Illinois Urbana-Champaign (2026 graduate).** I use **R and Python**
 to investigate real-world problems — from algorithmic fairness in social systems to
 forecasting and public-policy data — and to turn messy datasets into clear,
 decision-ready findings.
